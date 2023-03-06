@@ -32,7 +32,17 @@ Use multiple methods to perform a function on a DataFrame.
 
 Perform mathematical calculations on columns of a DataFrame or Series.
 
+##Analysis
 
+Based on the City School data, statistic data and tables, the analysis will be presented as following:
+
+Refer to the Scores by School Spending table, schools that spend on their budget on each student less seem to have better performance than schools that spend more money on each student.
+
+Math passing rates are always consistently lower across every metric.
+
+Refer to the Scores by School Size, there is a significant difference of school's performance between schools that have less than 2,000 students and more than 2,000 students. The bigger size schools tend to have lower performance.
+
+Refer to the Scores by School Type, Independent school tend to has better performance than Goverment school.
 
 
 
