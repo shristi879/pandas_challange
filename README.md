@@ -32,7 +32,8 @@ Use multiple methods to perform a function on a DataFrame.
 
 Perform mathematical calculations on columns of a DataFrame or Series.
 
-##Analysis
+
+## Analysis
 
 Based on the City School data, statistic data and tables, the analysis will be presented as following:
 
